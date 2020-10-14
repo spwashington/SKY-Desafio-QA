@@ -2,4 +2,4 @@
 
 Teste de automação web para o site da sky
 
-Cucumber  | Selenium Webdrive | Ruby
+Cucumber  | RSpec | Selenium Webdrive | Ruby
